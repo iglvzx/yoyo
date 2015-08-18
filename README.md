@@ -1,7 +1,7 @@
 # yoyo
 Uses the Twitter API to automatically change your Twitter profile picture on a schedule (e.g. every hour).
 
-## Prerequesites
+## Prerequisites
 
 1. **Node.js installed on your system**. Node.js runs on many platforms, so you do not have it installed, you can Google `How to install Node.js on X` where `X` is your platform (Ubuntu, Windows, etc)
 
