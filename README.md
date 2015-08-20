@@ -52,3 +52,15 @@ For example you can change it to the following, to have it run every 20 minutes:
 `var cronTime = '*/20 * * * *';`
 
 This uses the **Cron** time format to set how often or when your profile picture will be changed. More information here: https://en.wikipedia.org/wiki/Cron
+
+## Example Usage
+
+I run yoyo on my Ubuntu server and I utilize the `screen` command to keep yoyo running in the background.
+
+* `screen -S yoyo` to create a new session for yoyo.
+* `cd yoyo` to nagivate to the yoyo folder.
+* `node yoyo.js` to start yoyo
+
+Then I can press `CTRL + A + D` to detach the yoyo session and leave the script running.
+
+If I want to check the yoyo session again, I can attach it by running `screen -r yoyo`.
