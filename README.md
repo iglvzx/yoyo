@@ -5,7 +5,7 @@ Uses the Twitter API to automatically change your Twitter profile picture on a s
 
 - **Node.js installed on your system**. Node.js runs on many platforms. If you do not have it installed, you can Google `How to install Node.js on X` where `X` is your platform (Ubuntu, Windows, etc)
 
-- **Twitter API credentials for your account**. If you do not have API credentials for your account, you can follow the instructions here: https://iglvzx.wordpress.com/2015/08/23/generating-twitter-api-credentials/
+- **Twitter API credentials for your account**. If you do not have API credentials for your account, you can follow the instructions here: http://blog.igalvez.net/generating-twitter-api-credentials/
 
 ## Setup instructions
 
